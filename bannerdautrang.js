@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/3arcIAP' target='_blank'><img src='https://nguyenbadesign.com/wp-content/uploads/2020/04/lam-bang-hieu-quang-cao.jpg' width='500px'/><br/>Làm Bảng Hiệu Quảng Cáo Chuyên Nghiệp </a>.Hotline: 0977 22 1512. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/3cpX0Gl' target='_blank'><img src='https://nguyenbadesign.com/wp-content/uploads/2020/04/lam-bang-hieu-quang-cao.jpg' width='500px'/><br/>Làm Bảng Hiệu Quảng Cáo Chuyên Nghiệp </a>.Hotline: 0977 22 1512. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
